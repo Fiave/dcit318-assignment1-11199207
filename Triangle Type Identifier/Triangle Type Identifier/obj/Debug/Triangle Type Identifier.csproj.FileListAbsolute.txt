@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Triangle Type Identifier\Triangle Type Identifier\obj\Debug\Triangle Type Identifier.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Triangle Type Identifier\Triangle Type Identifier\obj\Debug\Triangle Type Identifier.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Triangle Type Identifier\Triangle Type Identifier\bin\Debug\Triangle Type Identifier.exe.config
+C:\Users\USER\source\repos\Triangle Type Identifier\Triangle Type Identifier\bin\Debug\Triangle Type Identifier.exe
+C:\Users\USER\source\repos\Triangle Type Identifier\Triangle Type Identifier\bin\Debug\Triangle Type Identifier.pdb
+C:\Users\USER\source\repos\Triangle Type Identifier\Triangle Type Identifier\obj\Debug\Triangle Type Identifier.exe
+C:\Users\USER\source\repos\Triangle Type Identifier\Triangle Type Identifier\obj\Debug\Triangle Type Identifier.pdb
